@@ -1,0 +1,2 @@
+# StaticServer
+Static Web Server
